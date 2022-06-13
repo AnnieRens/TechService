@@ -333,11 +333,4 @@ ASALocalRun/
 
 #Database temp file
 *.jfm
-
-#IconMoon App files
-SqlDbm/SqlDbm.Tool/App_Data/icomoon_app/*.txt
-SqlDbm/SqlDbm.Tool/App_Data/icomoon_app/demo*.html
-
-#Frontend build
-SqlDbm/SqlDbm.Tool/Scripts/React
-/SqlDbm/SqlDbm.Tool/transports.log.txt
+.vs/TechService/v17/.suo
